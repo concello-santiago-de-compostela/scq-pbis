@@ -1,0 +1,4 @@
+wget -O - http://repo.pbis.beyondtrust.com/apt/RPM-GPG-KEY-pbis|apt-key add -
+wget -O /etc/apt/sources.list.d/pbiso.list http://repo.pbis.beyondtrust.com/apt/pbiso.list
+
+apt-get update -y

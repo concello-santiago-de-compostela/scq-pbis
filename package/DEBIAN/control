@@ -1,0 +1,5 @@
+Package: pbis-scq
+Version: 1.4
+Maintainer: Rafael Rodriguez <rrodriguezg@santiagodecompostela.gal>
+Architecture: all
+Description: Instala pbis-open
