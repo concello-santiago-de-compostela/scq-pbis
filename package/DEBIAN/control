@@ -1,5 +1,6 @@
 Package: scq-pbis
-Version: 1.4
+Version: 1.5
 Maintainer: Rafael Rodriguez <rrodriguezg@santiagodecompostela.gal>
 Architecture: all
+Depends: openssh-server
 Description: Configura repositorio remoto para poder instalar la utilidad pbis-open.
